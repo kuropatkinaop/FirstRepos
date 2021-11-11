@@ -30,5 +30,3 @@ namespace OOOPolomkaISP9_3.Data
 }
 
 //
-//
-//
