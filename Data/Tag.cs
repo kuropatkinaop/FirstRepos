@@ -28,3 +28,7 @@ namespace OOOPolomkaISP9_3.Data
         public virtual ICollection<Client> Client { get; set; }
     }
 }
+
+//
+//
+//
